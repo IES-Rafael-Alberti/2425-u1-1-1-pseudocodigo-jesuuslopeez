@@ -1,0 +1,8 @@
+Inicio
+    Escribir "Introduce un número"
+    Leer numeroX
+    Si numeroX MOD 2=0
+    Escribir "Es par"
+    Sino
+    Escribir "Es impar"
+Fin

@@ -1,0 +1,11 @@
+Inicio
+    Escribir "Introduce un número"
+    Leer numeroX
+    numero1 = 1
+    Mientras (numero1 + 1) < numeroX
+    numeroX % numero1
+    Si numeroX % numero1 == 0
+    Escribir "El número no es primo"
+    Sino
+    Escribir "El número es primo"
+Fin
