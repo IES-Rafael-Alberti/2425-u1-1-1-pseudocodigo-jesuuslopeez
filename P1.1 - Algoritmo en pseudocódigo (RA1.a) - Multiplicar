@@ -1,0 +1,7 @@
+Inicio
+    Escribir "Introduce un número"
+    Leer numeroX
+    numero1 = 0
+    Para numero1 hasta(10)
+    Escribir ((numeroX)*numero1 + 1)
+Fin
